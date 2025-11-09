@@ -1,4 +1,4 @@
-# Client Helper v3 — Two-Way Google Sheets Sync
+# CredSync v3 — Two-Way Google Sheets Sync
 
 ### Overview
 This version connects the Chrome extension directly to a Google Sheet.  
