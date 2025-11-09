@@ -34,7 +34,7 @@ Link | Username | Password | Notes | Status
 3. In `sidebar.js`, update:
    ```js
    const GOOGLE_SHEET_API = "YOUR_WEB_APP_URL_HERE";
-````
+   ````
 
 4. Open `chrome://extensions`
 
@@ -55,13 +55,13 @@ Link | Username | Password | Notes | Status
 
 ### Folder Contents
 
-```
-manifest.json   → Extension config
-sidebar.js      → Main logic (fetch + save)
-sidebar.css     → UI styling
-icon.png        → Extension icon
-README.md       → This file
-```
+   ```
+   manifest.json   → Extension config
+   sidebar.js      → Main logic (fetch + save)
+   sidebar.css     → UI styling
+   icon.png        → Extension icon
+   README.md       → This file
+   ```
 
 ---
 
